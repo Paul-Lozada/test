@@ -4,7 +4,7 @@
 	"repository": "https://github.com/stripe/example-ios-backend",
 	"keywords": ["ios", "stripe"],
 	"env": {
-		"STRIPE_TEST_SECRET_KEY": {
+		"pk_test_D98GqmuJYZxrI7ixUYZMzzza": {
 			"description": "pk_test_D98GqmuJYZxrI7ixUYZMzzza",
 			"required": true
 		}
